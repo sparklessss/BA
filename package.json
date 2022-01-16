@@ -1,0 +1,12 @@
+{
+	"name": "google-forms-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/main.js",
+	"scripts": {
+		"dc": "node ./src/main.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {}
+}
